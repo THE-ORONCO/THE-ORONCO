@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Stuff I know
 ### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=rust,java,kotlin,spring,py,js,nodejs,astro,react,html,bash,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,java,kotlin,spring,py,ts,nodejs,astro,react,html,bash,latex)](https://skillicons.dev)
 - multiple projects in production with Java & Spring Boot
 - personal projects with Kotlin, Rust and NodeJS
 - ocational dataplotting with python
