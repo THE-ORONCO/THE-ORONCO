@@ -1,13 +1,13 @@
 # Hi there 👋
 ## Stuff I know
 ### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=rust,java,kotlin,spring,py,ts,nodejs,astro,react,html,bash,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,java,kotlin,spring,py,ts,nodejs,html,bash,latex,typst)](https://skillicons.dev)
 - multiple projects in production with Java & Spring Boot
 - personal projects with Kotlin, Rust and NodeJS
 - ocational dataplotting with python
 
 ### Version Controll, CI/CD & Build Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,azure,jenkins,gradle,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,azure,gitea,forgejo,gradle,maven)](https://skillicons.dev)
 - multiple years of using git and git adjacent technologies
 - used azure TFS in production
 - home server with jenkins, sonarqube and gitea
